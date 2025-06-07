@@ -1,0 +1,20 @@
+{
+  "name": "Harshulinks",
+  "short_name": "Harshulinks",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#232F3F",
+  "theme_color": "#232F3F",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKc2e4n2R3mtyvZ_GIfV2kN6dsFfSZWSJdrayG40Cltk6Y5Wx0ktPQ-a33PbO2sRuS-tcCKTD5ykA21_kmJHfq1BBk-lJIM9VLq8IgStLWnDna_L3nxbMaBGfB2aP0Dc0IsHcvdYguHH4CO24-ndu9bvA8qlv44C3awlh-xFmOelsmJ7KclPdhS1psBzM/s1600/Harshulinks%20192x192%20logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmfX_PHS8MRwgRqbZHAfJd_A_f8r_sDh_u2QgItUnPFWgS_HGfeTdEh66eGvL5iUSXwKvdjqZRV9fHIVoo1oOIisMFlnFvXZo-X6uOQ0oiwFi4gconSX-Kq5LOVRvVlC4N-JGyX3WD9AcRehtYJQ43LyZPd2lCIekf169TEaDV3vvx8x-Mu8AHm9wMHnk/s1600/Harshulinks%20512x512%20logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
