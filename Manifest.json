@@ -5,6 +5,9 @@
   "display": "standalone",
   "background_color": "#232F3F",
   "theme_color": "#6699ff",
+  "description": "Digital solutions, tools, and services by Harshulinks",
+"orientation": "portrait",
+"lang": "en-IN",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKc2e4n2R3mtyvZ_GIfV2kN6dsFfSZWSJdrayG40Cltk6Y5Wx0ktPQ-a33PbO2sRuS-tcCKTD5ykA21_kmJHfq1BBk-lJIM9VLq8IgStLWnDna_L3nxbMaBGfB2aP0Dc0IsHcvdYguHH4CO24-ndu9bvA8qlv44C3awlh-xFmOelsmJ7KclPdhS1psBzM/s1600/Harshulinks%20192x192%20logo.png",
