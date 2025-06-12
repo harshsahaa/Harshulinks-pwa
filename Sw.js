@@ -1,3 +1,4 @@
+importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js');
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open('harshulinks-cache-v1').then(cache => {
